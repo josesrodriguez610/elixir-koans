@@ -2,7 +2,7 @@ defmodule StringTests do
   use ExUnit.Case
   import TestHarness
 
-  test "Strings" do
+  test "Strings"
     answers = [
       "hello",
       "1 + 1 = 2",
